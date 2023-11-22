@@ -33,7 +33,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>私はフロントエンジニアです</p>
+        <p>私はフロントエンジニアです/好きな言語はJavascriptです</p>
       </section>
 
       <section>
